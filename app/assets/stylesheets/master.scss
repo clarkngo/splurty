@@ -63,6 +63,15 @@ h2 {
   font-family: 'source_code_prolight_italic', sans-serif;
 }
 
+@media (max-width: 50em) {
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
+
 .next-quote {
   color: #f84342;
   font-family: 'source_code_prolight_italic', sans-serif;
