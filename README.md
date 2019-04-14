@@ -1,11 +1,15 @@
-# Splurty 😎
+# Splurty 💬
 
-This project demonstrates the .
+This project demonstrates deployment of app in the ☁️ using Heroku.
+A well-defined README<span>.md with use of emojis. 😊
 
-**Splurty** application is hosted on ☁️[Heroku](http://curriculum-clark-ngo.herokuapp.com)
+**Splurty** application is hosted on [Heroku](http://curriculum-clark-ngo.herokuapp.com)
 
 ## Features
-
+- Randomize GET request
+- POST request with simple_form gem
+  - :octocat: repository of [simple_form](https://github.com/plataformatec/simple_form) gem
+  - get the latest version of [simple_form](https://rubygems.org/gems/simple_form)
 
 ## Getting Started
 
