@@ -29,8 +29,8 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'popper_js', '~> 1.11.1'
-gem 'bootstrap', '4.0.0.alpha6'
+gem 'popper_js', '< 2', '>= 1.12.9'
+gem 'bootstrap', '~> 4.0'
 gem 'simple_form'
 
 source 'https://rails-assets.org' do
