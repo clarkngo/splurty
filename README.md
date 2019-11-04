@@ -15,6 +15,7 @@ A well-defined README<span>.md with use of emojis. 😊
 
 ## Schema
 ![Schema](schema.png "Schema")
+Made with [dbdiagram.io](https://dbdiagram.io/home)
 
 ## Software requirements
 
