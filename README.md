@@ -13,6 +13,9 @@ A well-defined README<span>.md with use of emojis. 😊
 
 ## Getting Started
 
+## Schema
+![Schema](schema.png "Schema")
+
 ## Software requirements
 
 - Rails 5.0.0 or higher
